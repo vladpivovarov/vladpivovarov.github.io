@@ -1,7 +1,0 @@
-занести файлы относящиеся к сайту в папку "dev"
-
-npm i
-bower i
-npm i --save-dev gulp
-
-gulp dev
