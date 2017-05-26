@@ -1,0 +1,5 @@
+npm i
+bower i
+npm i --save-dev gulp
+
+gulp dev
